@@ -27,4 +27,4 @@ I'm a developer of Reedroux Bot and my own community Reedroux Gaming. I also wor
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJacobee&show_icons=true&theme=radical&count_private=true)
+
