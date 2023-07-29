@@ -7,6 +7,6 @@
 ## Do you need anything?
 - I am always open to commisions or questions! If you need anything, just send a mail to ianblackdavid@gmail.com !
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=twodawggg&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=twodawg09&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
 
 
